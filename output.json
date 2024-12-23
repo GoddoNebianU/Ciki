@@ -1,0 +1,2970 @@
+[
+    {
+        "word": "ancestor",
+        "usphone": "'ænsɛstɚ",
+        "ukphone": "'ænsestə",
+        "trans": [
+            {
+                "tranCn": "祖宗，祖先",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a member of your family who lived a long time ago"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "My ancestors were French.",
+                "sCn": "我的祖先是法国人。"
+            }
+        ]
+    },
+    {
+        "word": "anchor",
+        "usphone": "'æŋkɚ",
+        "ukphone": "'æŋkə",
+        "trans": [
+            {
+                "tranCn": "锚",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a piece of heavy metal that is lowered to the bottom of the sea, a lake etc to prevent a ship or boat moving"
+            },
+            {
+                "tranCn": "抛锚，停泊",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to lower the anchor on a ship or boat to hold it in one place"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "We dropped anchor a few yards offshore.",
+                "sCn": "我们在离岸几码远的地方抛锚停航。"
+            },
+            {
+                "sContent": "The next morning, they weighed anchor (=  lifted the anchor  ) and began to move south again.",
+                "sCn": "第二天早上他们起锚，又开始向南航行。"
+            },
+            {
+                "sContent": "Three tankers were anchored in the harbor.",
+                "sCn": "三艘油轮停泊在港口。"
+            }
+        ]
+    },
+    {
+        "word": "argue",
+        "usphone": "'ɑrgjʊ",
+        "ukphone": "'ɑːgjuː",
+        "trans": [
+            {
+                "tranCn": "争论；争辩，辩论",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to disagree with someone in words, often in an angry way"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "We could hear the neighbours arguing.",
+                "sCn": "我们听到邻居在争吵。"
+            },
+            {
+                "sContent": "She argued the case for changing the law.",
+                "sCn": "她提出论据，力主修改法律。"
+            }
+        ]
+    },
+    {
+        "word": "argument",
+        "usphone": "'ɑrɡjumənt",
+        "ukphone": "'ɑːgjʊm(ə)nt",
+        "trans": [
+            {
+                "tranCn": "争论，辩论；理由",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a situation in which two or more people disagree, often angrily"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "She had a big argument with her husband.",
+                "sCn": "她和丈夫大吵了一架。"
+            },
+            {
+                "sContent": "We need to provide a convincing argument as to why the system should be changed.",
+                "sCn": "我们得提出有说服力的论据，证明为何要改变体制。"
+            }
+        ]
+    },
+    {
+        "word": "arithmetic",
+        "usphone": "ə'rɪθmətɪk",
+        "ukphone": "ə'rɪθmətɪk",
+        "trans": [
+            {
+                "tranCn": "算术；四则运算",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the type of mathematics that deals with the adding, multiplying, etc. of numbers"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "He's not very good at arithmetic.",
+                "sCn": "他不太擅长算术。"
+            },
+            {
+                "sContent": "a quick bit of mental arithmetic",
+                "sCn": "快速心算"
+            }
+        ]
+    },
+    {
+        "word": "ash",
+        "usphone": "æʃ",
+        "ukphone": "æʃ",
+        "trans": [
+            {
+                "tranCn": "灰，灰末；骨灰",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the soft grey powder that remains after something has been burned"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "cigarette ash",
+                "sCn": "香烟灰"
+            },
+            {
+                "sContent": "The house burnt to ashes.",
+                "sCn": "那房子烧成了灰烬。"
+            },
+            {
+                "sContent": "His ashes were scattered at sea.",
+                "sCn": "他的骨灰被撒向大海。"
+            }
+        ]
+    },
+    {
+        "word": "assessment",
+        "usphone": "ə'sɛsmənt",
+        "ukphone": "ə'sesmənt",
+        "trans": [
+            {
+                "tranCn": "估定；查定",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a process in which you make a judgment about a person or situation, or the judgment you make"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a reading assessment test",
+                "sCn": "阅读评估测试"
+            }
+        ]
+    },
+    {
+        "word": "astonish",
+        "usphone": "ə'stɑnɪʃ",
+        "ukphone": "ə'stɒnɪʃ",
+        "trans": [
+            {
+                "tranCn": "使惊讶，使吃惊",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to surprise someone very much"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Her reply astonished me.",
+                "sCn": "她的回答让我大吃一惊。"
+            },
+            {
+                "sContent": "It astonished him that she had changed so little.",
+                "sCn": "他很惊讶，她几乎没怎么变。"
+            },
+            {
+                "sContent": "What astonishes me most is his complete lack of fear.",
+                "sCn": "最令我吃惊的是，他什么都不怕。"
+            }
+        ]
+    },
+    {
+        "word": "bacterium",
+        "usphone": "bæk'tɪrɪəm",
+        "ukphone": "bæk'tɪərɪəm",
+        "trans": [
+            {
+                "tranCn": "细菌",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the singular of bacteria"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The bacterium Streptococcus pneumoniae causes about a third of some 3,000 annual meningitis cases.",
+                "sCn": "在每年约3000起脑膜炎病例中，1/3左右是由一种叫“肺炎链球菌”的细菌引起的。"
+            }
+        ]
+    },
+    {
+        "word": "baggage",
+        "usphone": "'bæɡɪdʒ",
+        "ukphone": "'bægɪdʒ",
+        "trans": [
+            {
+                "tranCn": "行李",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the cases, bags, boxes etc carried by someone who is travelling"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Check your baggage in at the desk.",
+                "sCn": "在服务台托运行李。"
+            }
+        ]
+    },
+    {
+        "word": "balcony",
+        "usphone": "'bælkəni",
+        "ukphone": "'bælkənɪ",
+        "trans": [
+            {
+                "tranCn": "阳台；楼厅，楼座",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a structure that you can stand on, that is attached to the outside wall of a building, above ground level"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Has your flat got a balcony?",
+                "sCn": "你的公寓有阳台吗？"
+            }
+        ]
+    },
+    {
+        "word": "bargain",
+        "usphone": "ˈbɑːɡɪn",
+        "ukphone": "ˈbɑːɡɪn",
+        "trans": [
+            {
+                "tranCn": "交易",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "an agreement, made between two people or groups to do something in return for something else"
+            },
+            {
+                "tranCn": "议价",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to discuss the conditions of a sale, agreement etc, for example to try and get a lower price"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "I’ve kept my side of the bargain and I expect you to keep yours.",
+                "sCn": "我履行了我的承诺，希望你也履行你的承诺。"
+            },
+            {
+                "sContent": "women bargaining with traders",
+                "sCn": "和商贩讨价还价的女人"
+            }
+        ]
+    },
+    {
+        "word": "biscuit",
+        "usphone": "'bɪskɪt",
+        "ukphone": "'bɪskɪt",
+        "trans": [
+            {
+                "tranCn": "（英）饼干；（美）软饼",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a small thin dry cake that is usually sweet and made for one person to eat"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a packet of chocolate biscuits",
+                "sCn": "一包巧克力饼干"
+            },
+            {
+                "sContent": "cheese and biscuits",
+                "sCn": "奶酪和饼干"
+            }
+        ]
+    },
+    {
+        "word": "bishop",
+        "usphone": "'bɪʃəp",
+        "ukphone": "'bɪʃəp",
+        "trans": [
+            {
+                "tranCn": "（基督教的）主教",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a priest with a high rank in some Christian religions, who is the head of all the churches and priests in a large area"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "the Bishop of Durham",
+                "sCn": "达勒姆郡的主教"
+            }
+        ]
+    },
+    {
+        "word": "blouse",
+        "usphone": "blaʊs",
+        "ukphone": "'blaʊz",
+        "trans": [
+            {
+                "tranCn": "女衬衫；罩衫",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a shirt for women"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a silk blouse",
+                "sCn": "丝质女衬衫"
+            }
+        ]
+    },
+    {
+        "word": "brake",
+        "usphone": "brek",
+        "ukphone": "breɪk",
+        "trans": [
+            {
+                "tranCn": "闸，刹车",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a piece of equipment that makes a vehicle go more slowly or stop"
+            },
+            {
+                "tranCn": "制动",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to make a vehicle or bicycle go more slowly or stop by using its brake"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Test your brakes after driving through water.",
+                "sCn": "车子涉水之后要检验一下刹车。"
+            },
+            {
+                "sContent": "I managed to put the brakes on just in time.",
+                "sCn": "我最终及时刹了车。"
+            },
+            {
+                "sContent": "Moira slammed on the brakes (=  used them suddenly and with a lot of force  ) .",
+                "sCn": "莫伊拉猛踩刹车。"
+            },
+            {
+                "sContent": "the screech of brakes",
+                "sCn": "刹车的刺耳噪音"
+            },
+            {
+                "sContent": "He braked sharply to avoid the dog.",
+                "sCn": "他突然急刹车，想避开那条狗。"
+            }
+        ]
+    },
+    {
+        "word": "broom",
+        "usphone": "brum",
+        "ukphone": "bruːm",
+        "trans": [
+            {
+                "tranCn": "扫帚",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a large brush with a long handle, used for sweeping floors"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The lobby is empty but for the postman and his broom.",
+                "sCn": "大厅里除了邮差和他的扫帚以外别无他人。"
+            },
+            {
+                "sContent": "As a rule, where the broom does not reach the dust will not vanish of itself.",
+                "sCn": "扫帚不到, 灰尘照例不会自己跑掉。"
+            }
+        ]
+    },
+    {
+        "word": "burglar",
+        "usphone": "'bɝɡlɚ",
+        "ukphone": "'bɜːglə",
+        "trans": [
+            {
+                "tranCn": "夜盗，窃贼",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "someone who goes into houses, shops etc to steal things"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Burglars broke into their home.",
+                "sCn": "窃贼闯进了他们家。"
+            }
+        ]
+    },
+    {
+        "word": "burst",
+        "usphone": "bɝst",
+        "ukphone": "bɜːst",
+        "trans": [
+            {
+                "tranCn": "使爆裂",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "if something bursts, or if you burst it, it breaks open or apart suddenly and violently so that its contents come out"
+            },
+            {
+                "tranCn": "爆炸",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the act of something bursting or the place where it has burst"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The pipes had burst and the house was under two feet of water.",
+                "sCn": "水管爆裂，房子被水淹了两英尺。"
+            },
+            {
+                "sContent": "a sudden burst of activity/energy/anger/enthusiasm",
+                "sCn": "活动 / 能量 / 怒火 / 热情的迸发"
+            }
+        ]
+    },
+    {
+        "word": "cafeteria",
+        "usphone": ",kæfə'tɪrɪə",
+        "ukphone": "kæfɪ'tɪərɪə",
+        "trans": [
+            {
+                "tranCn": "自助食堂",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a restaurant, often in a factory, college etc, where you choose from foods that have already been cooked and carry your own food to a table"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "the school cafeteria",
+                "sCn": "学校餐厅"
+            }
+        ]
+    },
+    {
+        "word": "candle",
+        "usphone": "'kændl",
+        "ukphone": "'kænd(ə)l",
+        "trans": [
+            {
+                "tranCn": "蜡烛",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a stick of  wax  with a string through the middle, which you burn to give light"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "When the candle was only half an inch high it flickered out and the room became dark.",
+                "sCn": "蜡烛只有半英寸长时，烛光忽闪忽闪地熄灭了，于是房间一片漆黑。"
+            }
+        ]
+    },
+    {
+        "word": "carve",
+        "usphone": "kɑrv",
+        "ukphone": "kɑːv",
+        "trans": [
+            {
+                "tranCn": "刻，雕刻；切开",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to make an object or pattern by cutting a piece of wood or stone"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "carved wooden chairs",
+                "sCn": "木雕椅子"
+            },
+            {
+                "sContent": "Carve the meat into slices.",
+                "sCn": "把肉切成片。"
+            }
+        ]
+    },
+    {
+        "word": "cattle",
+        "usphone": "'kætl",
+        "ukphone": "'kæt(ə)l",
+        "trans": [
+            {
+                "tranCn": "牛；牲口，家畜",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "cows and  bulls  kept on a farm for their meat or milk"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "herds of cattle",
+                "sCn": "成群的牛"
+            },
+            {
+                "sContent": "a cattle rancher",
+                "sCn": "牧牛场场主"
+            }
+        ]
+    },
+    {
+        "word": "ceiling",
+        "usphone": "'silɪŋ",
+        "ukphone": "'siːlɪŋ",
+        "trans": [
+            {
+                "tranCn": "天花板，顶蓬",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the inner surface of the top part of a room"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "rooms with high ceilings",
+                "sCn": "天花板很高的房间"
+            },
+            {
+                "sContent": "a light hanging from the ceiling",
+                "sCn": "吊在天花板上的灯"
+            }
+        ]
+    },
+    {
+        "word": "centigrade",
+        "usphone": "'sɛntɪɡred",
+        "ukphone": "'sentɪgreɪd",
+        "trans": [
+            {
+                "tranCn": "百分度的",
+                "descOther": "英释",
+                "pos": "adj",
+                "descCn": "中释",
+                "tranOther": "a scale for measuring temperature, in which water freezes at 0 degrees and boils at 100 degrees"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "This thermometer is calibrated by centigrade.",
+                "sCn": "这种温度计是用摄氏百分度标定的。"
+            },
+            {
+                "sContent": "This number is unique in temperature readings; it is unique because -40 is the only point at which the fahrenheit and centigrade scales meet.",
+                "sCn": "在温度系统中，这个数字是独一无二的；它独一无二的理由是：-40是华氏温标和摄氏温标唯一相同的点。"
+            }
+        ]
+    },
+    {
+        "word": "chalk",
+        "usphone": "tʃɔk",
+        "ukphone": "tʃɔːk",
+        "trans": [
+            {
+                "tranCn": "白垩；粉笔",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "soft white or grey rock formed a long time ago from the shells of small sea animals"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "chalk cliffs",
+                "sCn": "白垩质峭壁"
+            },
+            {
+                "sContent": "a box of coloured chalks",
+                "sCn": "一盒彩色粉笔"
+            }
+        ]
+    },
+    {
+        "word": "chest",
+        "usphone": "tʃɛst",
+        "ukphone": "tʃest",
+        "trans": [
+            {
+                "tranCn": "胸腔，胸膛；箱子",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the front part of your body between your neck and your stomach"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Her heart was pounding in her chest.",
+                "sCn": "她的心在胸口怦怦直跳。"
+            },
+            {
+                "sContent": "a hairy chest",
+                "sCn": "毛茸茸的胸部"
+            },
+            {
+                "sContent": "a large wooden chest",
+                "sCn": "一只大木箱"
+            }
+        ]
+    },
+    {
+        "word": "chimney",
+        "usphone": "'tʃɪmni",
+        "ukphone": "'tʃɪmnɪ",
+        "trans": [
+            {
+                "tranCn": "烟囱，烟筒",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a structure through which smoke or steam is carried up away from a fire, etc. and through the roof of a building; the part of this that is above the roof"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "We can’t light a fire because the chimney hasn’t been swept.",
+                "sCn": "烟囱管没有清扫过，我们生不了火。"
+            },
+            {
+                "sContent": "a factory chimney",
+                "sCn": "工厂的烟囱"
+            }
+        ]
+    },
+    {
+        "word": "cigar",
+        "usphone": "sɪ'ɡɑr",
+        "ukphone": "sɪ'gɑː",
+        "trans": [
+            {
+                "tranCn": "雪茄烟，叶卷烟",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a thick tube-shaped thing that people smoke, and which is made from tobacco leaves that have been rolled up"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "He was smoking a big cigar.",
+                "sCn": "他在抽一只大雪茄。"
+            }
+        ]
+    },
+    {
+        "word": "comb",
+        "usphone": "kom",
+        "ukphone": "kəʊm",
+        "trans": [
+            {
+                "tranCn": "梳子",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a flat piece of plastic, metal etc with a row of thin teeth on one side, used for making your hair tidy"
+            },
+            {
+                "tranCn": "梳理",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to make hair look tidy using a comb"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Your hair needs a good comb.",
+                "sCn": "你的头发需要好好梳理一下。"
+            },
+            {
+                "sContent": "Melanie ran upstairs to comb her hair.",
+                "sCn": "梅拉妮跑上楼去梳头发。"
+            }
+        ]
+    },
+    {
+        "word": "composition",
+        "usphone": ",kɑmpə'zɪʃən",
+        "ukphone": "kɒmpə'zɪʃ(ə)n",
+        "trans": [
+            {
+                "tranCn": "组成，构成，结构",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the way in which something is made up of different parts, things, or members"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Some minerals have complex chemical compositions.",
+                "sCn": "有些矿物的化学构成很复杂。"
+            }
+        ]
+    },
+    {
+        "word": "conference",
+        "usphone": "'kɑnfərəns",
+        "ukphone": "'kɒnf(ə)r(ə)ns",
+        "trans": [
+            {
+                "tranCn": "会议，讨论会",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a large formal meeting where a lot of people discuss important matters such as business, politics, or science, especially for several days"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Representatives from over 100 countries attended the International Peace Conference in Geneva.",
+                "sCn": "来自一百多个国家的代表出席了在日内瓦举行的国际和平大会。"
+            }
+        ]
+    },
+    {
+        "word": "conservation",
+        "usphone": ",kɑnsɚ'veʃən",
+        "ukphone": "kɒnsə'veɪʃ(ə)n",
+        "trans": [
+            {
+                "tranCn": "保存，保护",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the protection of natural things such as animals, plants, forests etc, to prevent them from being spoiled or destroyed"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "wildlife conservation",
+                "sCn": "野生生物保护"
+            },
+            {
+                "sContent": "a local conservation group",
+                "sCn": "当地的一个环境保护团体"
+            }
+        ]
+    },
+    {
+        "word": "conservative",
+        "usphone": "kən'sɝvətɪv",
+        "ukphone": "kən'sɜːvətɪv",
+        "trans": [
+            {
+                "tranCn": "保守的，守旧的",
+                "descOther": "英释",
+                "pos": "adj",
+                "descCn": "中释",
+                "tranOther": "not liking changes or new ideas"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a very conservative attitude to education",
+                "sCn": "对待教育非常守旧的态度"
+            },
+            {
+                "sContent": "conservative views",
+                "sCn": "保守的观点"
+            }
+        ]
+    },
+    {
+        "word": "crew",
+        "usphone": "krʊ",
+        "ukphone": "kruː",
+        "trans": [
+            {
+                "tranCn": "全体船员",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "all the people who work on a ship or plane"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The plane crashed, killing two of the crew and four passengers.",
+                "sCn": "飞机坠毁，造成两名机组人员和四名乘客死亡。"
+            },
+            {
+                "sContent": "a crew member",
+                "sCn": "一名机组人员"
+            }
+        ]
+    },
+    {
+        "word": "criterion",
+        "usphone": "kraɪˈtɪriən",
+        "ukphone": "kraɪ'tɪərɪən",
+        "trans": [
+            {
+                "tranCn": "标准，准则，尺度",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a standard that you use to judge something or make a decision about something"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "the criteria we use to select candidates",
+                "sCn": "我们挑选候选人的标准"
+            }
+        ]
+    },
+    {
+        "word": "dawn",
+        "usphone": "dɔn",
+        "ukphone": "dɔːn",
+        "trans": [
+            {
+                "tranCn": "黎明；开端",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the time at the beginning of the day when light first appears"
+            },
+            {
+                "tranCn": "破晓",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "if day or morning dawns, it begins"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "When dawn broke (= the first light of the day appeared ) , we were still 50 miles from Calcutta.",
+                "sCn": "破晓的时候，我们离加尔各答还有50英里。"
+            },
+            {
+                "sContent": "I was up at the crack of dawn (= very early in the morning ) to get the plane.",
+                "sCn": "我一大早就起来赶飞机。"
+            },
+            {
+                "sContent": "We worked from dawn to dusk (= through the whole day while it is light ) .",
+                "sCn": "我们从早干到晚。"
+            },
+            {
+                "sContent": "the cold light of dawn",
+                "sCn": "清冷的晨曦"
+            },
+            {
+                "sContent": "The morning dawned fresh and clear after the storm.",
+                "sCn": "暴风雨过后，破晓时天朗气清。"
+            }
+        ]
+    },
+    {
+        "word": "deaf",
+        "usphone": "dɛf",
+        "ukphone": "def",
+        "trans": [
+            {
+                "tranCn": "聋的；不愿听的",
+                "descOther": "英释",
+                "pos": "adj",
+                "descCn": "中释",
+                "tranOther": "physically unable to hear anything or unable to hear well"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "communication between deaf and hearing people",
+                "sCn": "失聪者和听力正常者之间的交流"
+            },
+            {
+                "sContent": "I think Mum’s going a bit deaf .",
+                "sCn": "我觉得妈妈有点耳聋了。"
+            },
+            {
+                "sContent": "She’s deaf and dumb (= unable to hear or speak ) and communicates using sign language.",
+                "sCn": "她又聋又哑，用手语交流。"
+            },
+            {
+                "sContent": "She was deaf to his pleas.",
+                "sCn": "她对他的恳求充耳不闻。"
+            }
+        ]
+    },
+    {
+        "word": "diagram",
+        "usphone": "'daɪəɡræm",
+        "ukphone": "'daɪəgræm",
+        "trans": [
+            {
+                "tranCn": "图解，图表，简图",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a simple drawing or plan that shows exactly where something is, what something looks like, or how something works"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a diagram of the heating system",
+                "sCn": "供热系统示意图"
+            }
+        ]
+    },
+    {
+        "word": "discount",
+        "usphone": "dɪs'kaʊnt",
+        "ukphone": "'dɪskaʊnt",
+        "trans": [
+            {
+                "tranCn": "折扣",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a reduction in the usual price of something"
+            },
+            {
+                "tranCn": "打折扣卖",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to reduce the price of something"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "They are often available at a discount.",
+                "sCn": "它们经常可以以折扣价买到。"
+            },
+            {
+                "sContent": "Games were discounted to as little as 5.",
+                "sCn": "游戏减价到只要5美元。"
+            }
+        ]
+    },
+    {
+        "word": "disturbance",
+        "usphone": "dɪ'stɝbəns",
+        "ukphone": "dɪ'stɜːb(ə)ns",
+        "trans": [
+            {
+                "tranCn": "动乱；干扰",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a situation in which people behave violently in public"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "There were disturbances in the crowd as fans left the stadium.",
+                "sCn": "球迷离开体育场时，人群中发生了骚乱。"
+            },
+            {
+                "sContent": "When a helicopter lands, it can cause a disturbance to local residents.",
+                "sCn": "直升机降落会惊扰当地居民。"
+            }
+        ]
+    },
+    {
+        "word": "dust",
+        "usphone": "dʌst",
+        "ukphone": "dʌst",
+        "trans": [
+            {
+                "tranCn": "灰尘",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "dry powder consisting of extremely small bits of dirt that is in buildings on furniture, floors etc if they are not kept clean"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "All the furniture was covered in dust.",
+                "sCn": "所有的家具都蒙上了灰尘。"
+            }
+        ]
+    },
+    {
+        "word": "embassy",
+        "usphone": "'ɛmbəsi",
+        "ukphone": "'embəsɪ",
+        "trans": [
+            {
+                "tranCn": "大使馆；大使的职务",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a group of officials who represent their government in a foreign country, or the building they work in"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "the American Embassy in Paris",
+                "sCn": "美国驻巴黎大使馆"
+            }
+        ]
+    },
+    {
+        "word": "expectation",
+        "usphone": ",ɛkspɛk'teʃən",
+        "ukphone": "ekspek'teɪʃ(ə)n",
+        "trans": [
+            {
+                "tranCn": "期待，预期；期望",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "what you think or hope will happen"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Having raised expectations (= made people more hopeful ), he went on to help only a few people.",
+                "sCn": "他唤起了大家的希望，但接着只是帮助了几个人。"
+            },
+            {
+                "sContent": "The show exceeded all expectations (= was much better than expected ).",
+                "sCn": "这场演出比人们预期的要好得多。"
+            },
+            {
+                "sContent": "Women who have high expectations of marriage are often disappointed.",
+                "sCn": "对婚姻怀有很高期望的女性常常会感到失望。"
+            }
+        ]
+    },
+    {
+        "word": "expedition",
+        "usphone": ",ɛkspə'dɪʃən",
+        "ukphone": "ekspɪ'dɪʃ(ə)n",
+        "trans": [
+            {
+                "tranCn": "探险；探险队",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a long and carefully organized journey, especially to a dangerous or unfamiliar place, or the people that make this journey"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "an expedition to the North Pole",
+                "sCn": "北极探险"
+            },
+            {
+                "sContent": "another Qomolangma expedition",
+                "sCn": "又一次珠穆朗玛峰探险"
+            }
+        ]
+    },
+    {
+        "word": "expense",
+        "usphone": "ɪk'spɛns",
+        "ukphone": "ɪk'spens; ek-",
+        "trans": [
+            {
+                "tranCn": "花费，消费；费用",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the amount of money that you spend on something"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "He borrowed £150,000 and used the money for legal expenses.",
+                "sCn": "他借了15万英镑用于支付律师费。"
+            },
+            {
+                "sContent": "Conference rooms were equipped at great expense.",
+                "sCn": "装备会议室花费巨大。"
+            }
+        ]
+    },
+    {
+        "word": "federal",
+        "usphone": "'fɛdərəl",
+        "ukphone": "'fed(ə)r(ə)l",
+        "trans": [
+            {
+                "tranCn": "联邦的；联盟的",
+                "descOther": "英释",
+                "pos": "adj",
+                "descCn": "中释",
+                "tranOther": "a federal country or system of government consists of a group of states which control their own affairs, but which are also controlled by a single national government which makes decisions on foreign affairs, defence etc"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Switzerland is a federal republic.",
+                "sCn": "瑞士是一个联邦共和国。"
+            }
+        ]
+    },
+    {
+        "word": "ferry",
+        "usphone": "'fɛri",
+        "ukphone": "'ferɪ",
+        "trans": [
+            {
+                "tranCn": "渡船",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a boat that carries people or goods across a river or a narrow area of water"
+            },
+            {
+                "tranCn": "运送",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to carry people or things a short distance from one place to another in a boat or other vehicle"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "They had recrossed the River Gambia by ferry.",
+                "sCn": "他们乘船又一次渡过了冈比亚河。"
+            },
+            {
+                "sContent": "The ship was used to ferry supplies to Russia during the war.",
+                "sCn": "这艘船在战时被用来往俄罗斯 运送补给。"
+            }
+        ]
+    },
+    {
+        "word": "flesh",
+        "usphone": "flɛʃ",
+        "ukphone": "fleʃ",
+        "trans": [
+            {
+                "tranCn": "肉，肌肉；肉体",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the soft part of the body of a person or animal that is between the skin and the bones"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a freshwater fish with firm white flesh",
+                "sCn": "一种肉色雪白、肉质紧实的淡水鱼"
+            },
+            {
+                "sContent": "...the warmth of her flesh.",
+                "sCn": "…她肌肤的温暖。"
+            }
+        ]
+    },
+    {
+        "word": "forecast",
+        "usphone": "'fɔrkæst",
+        "ukphone": "'fɔːkɑːst",
+        "trans": [
+            {
+                "tranCn": "预测，预报",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a description of what is likely to happen in the future, based on the information that you have now"
+            },
+            {
+                "tranCn": "预示",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to make a statement saying what is likely to happen in the future, based on the information that you have now"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The weather forecast is good for tomorrow.",
+                "sCn": "天气预报说明天是晴天。"
+            },
+            {
+                "sContent": "Rain was forecast for the weekend.",
+                "sCn": "预报周末有雨。"
+            }
+        ]
+    },
+    {
+        "word": "forehead",
+        "usphone": "'fɔr'hɛd",
+        "ukphone": "'fɔːhed; 'fɒrɪd",
+        "trans": [
+            {
+                "tranCn": "额头，前部",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the part of your face above your eyes and below your hair"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "the lines on her forehead",
+                "sCn": "她前额上的皱纹"
+            }
+        ]
+    },
+    {
+        "word": "fortnight",
+        "usphone": "'fɔrtnaɪt",
+        "ukphone": "'fɔːtnaɪt",
+        "trans": [
+            {
+                "tranCn": "两星期，十四天",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "two weeks"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a fortnight’s holiday",
+                "sCn": "十四天的假期"
+            },
+            {
+                "sContent": "in a fortnight’s time",
+                "sCn": "两周后"
+            },
+            {
+                "sContent": "a fortnight ago",
+                "sCn": "两周前"
+            }
+        ]
+    },
+    {
+        "word": "fridge",
+        "usphone": "frɪdʒ",
+        "ukphone": "frɪdʒ",
+        "trans": [
+            {
+                "tranCn": "电冰箱",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a large piece of electrical kitchen equipment, used for keeping food and drinks cool"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Then all three of you sign the contract and post in on the fridge.",
+                "sCn": "然后你们三个人要都在协议上签名，并把它贴在冰箱上。"
+            },
+            {
+                "sContent": "I want this beer to chill so I'll leave it in the fridge for an hour.",
+                "sCn": "我想要啤酒变凉，因此我把它放在冰箱里一小时。"
+            }
+        ]
+    },
+    {
+        "word": "frighten",
+        "usphone": "'fraɪtn",
+        "ukphone": "'fraɪt(ə)n",
+        "trans": [
+            {
+                "tranCn": "使惊恐，吓唬",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to make someone feel afraid"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Don’t stand so near the edge! You’re frightening me.",
+                "sCn": "别站得那么靠边！你要把我吓坏了。"
+            },
+            {
+                "sContent": "She was frightened by the anger in his eyes.",
+                "sCn": "她被他眼中的怒火吓住了。"
+            },
+            {
+                "sContent": "Computers used to frighten me, but not now.",
+                "sCn": "电脑过去让我感到害怕，但现在不了。"
+            }
+        ]
+    },
+    {
+        "word": "goose",
+        "usphone": "ɡus",
+        "ukphone": "guːs",
+        "trans": [
+            {
+                "tranCn": "鹅；雌鹅",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a bird that is like a duck but is larger and makes loud noises"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "roast goose",
+                "sCn": "烤鹅"
+            }
+        ]
+    },
+    {
+        "word": "grocer",
+        "usphone": "ɡrosɚ",
+        "ukphone": "'grəʊsə",
+        "trans": [
+            {
+                "tranCn": "食品商；杂货商",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a person who owns, manages or works in a shop/store selling food and other things used in the home"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The cook and the grocer haggled over the price of eggs.",
+                "sCn": "厨师和杂货商为蛋价计较个没完。"
+            },
+            {
+                "sContent": "Just as our exchanges with the local grocer free us from backbreaking farm work, so do imports from around the world move us even more toward the very economic specialization that enriches us.",
+                "sCn": "就好像我们与当地的杂货店交易，我们就不用非常辛苦地从事农业劳动，来自全世界的进口品让我们更快地走向经济专业化，使我们富裕。"
+            }
+        ]
+    },
+    {
+        "word": "hammer",
+        "usphone": "'hæmɚ",
+        "ukphone": "'hæmə",
+        "trans": [
+            {
+                "tranCn": "锤，榔头",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a tool with a heavy metal part on a long handle, used for hitting nails into wood"
+            },
+            {
+                "tranCn": "锤击",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to hit something with a hammer in order to force it into a particular position or shape"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "I had no hammer,so I had to pound the nail in with a stone.",
+                "sCn": "我没有锤子，所以只得用石头把钉子敲进去。"
+            },
+            {
+                "sContent": "Hammer the nails into the back of the frame.",
+                "sCn": "把钉子锤入框子的背面。"
+            }
+        ]
+    },
+    {
+        "word": "heap",
+        "usphone": "hip",
+        "ukphone": "hiːp",
+        "trans": [
+            {
+                "tranCn": "（一）堆；大量",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a large untidy pile of things"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a rubbish heap",
+                "sCn": "垃圾堆"
+            },
+            {
+                "sContent": "We piled the branches into heaps for burning.",
+                "sCn": "我们把树枝堆起来烧。"
+            },
+            {
+                "sContent": "The children have heaps of energy.",
+                "sCn": "孩子们精力充沛。"
+            }
+        ]
+    },
+    {
+        "word": "helmet",
+        "usphone": "'hɛlmɪt",
+        "ukphone": "'helmɪt",
+        "trans": [
+            {
+                "tranCn": "头盔，钢盔",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a strong hard hat that soldiers,  motorcycle  riders, the police etc wear to protect their heads"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The Sword split the Knight's helmet and bit him fatally.",
+                "sCn": "剑劈开了骑士的头盔并致命地刺进他。"
+            }
+        ]
+    },
+    {
+        "word": "inland",
+        "usphone": ",ɪn'lænd",
+        "ukphone": "'ɪnlənd; -lænd",
+        "trans": [
+            {
+                "tranCn": "国内的；内地的",
+                "descOther": "英释",
+                "pos": "adj",
+                "descCn": "中释",
+                "tranOther": "located in or near the middle of a country, not near the edge or on the coast"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "the largest area of inland water in the southeast",
+                "sCn": "东南部最大的内陆水域"
+            },
+            {
+                "sContent": "inland areas",
+                "sCn": "内陆地区"
+            }
+        ]
+    },
+    {
+        "word": "inn",
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "trans": [
+            {
+                "tranCn": "小旅店；小酒店",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a small hotel or pub, especially an old one in the countryside"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "We’re staying at the Holiday Inn.",
+                "sCn": "我们住在假日酒店。"
+            }
+        ]
+    },
+    {
+        "word": "institute",
+        "usphone": "'ɪnstɪtut",
+        "ukphone": "'ɪnstɪtjuːt",
+        "trans": [
+            {
+                "tranCn": "研究所；学院",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "an organization that has a particular purpose such as scientific or educational work, or the building where this organization is based"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "research institutes",
+                "sCn": "研究所"
+            }
+        ]
+    },
+    {
+        "word": "institution",
+        "usphone": ",ɪnstɪ'tuʃən",
+        "ukphone": "ɪnstɪ'tjuːʃ(ə)n",
+        "trans": [
+            {
+                "tranCn": "协会；制度，习俗",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a large organization that has a particular kind of work or purpose"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "the Institution of Electrical Engineers",
+                "sCn": "电机工程师学会"
+            },
+            {
+                "sContent": "social institutions such as the family and religion",
+                "sCn": "家庭和宗教这一类社会制度"
+            }
+        ]
+    },
+    {
+        "word": "jam",
+        "usphone": "dʒæm",
+        "ukphone": "dʒæm",
+        "trans": [
+            {
+                "tranCn": "堵塞",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a situation in which it is difficult or impossible to move because there are so many cars or people"
+            },
+            {
+                "tranCn": "使…堵塞",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "If vehicles jam a road, there are so many of them that they cannot move."
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Sorry we’re late. We got stuck in a traffic jam.",
+                "sCn": "对不起，我们来晚了，路上堵车。"
+            },
+            {
+                "sContent": "Hundreds of departing motorists jammed the roads.",
+                "sCn": "数百名打算驾车离开的司机堵住了道路。"
+            }
+        ]
+    },
+    {
+        "word": "jar",
+        "usphone": "dʒɑr",
+        "ukphone": "dʒɑː",
+        "trans": [
+            {
+                "tranCn": "罐子，坛子，广口瓶",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a glass container with a wide top and a lid, used for storing food such as jam or honey, or the amount it contains"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a jam jar",
+                "sCn": "果酱罐"
+            },
+            {
+                "sContent": "half a jar of peanut butter",
+                "sCn": "半瓶花生酱"
+            }
+        ]
+    },
+    {
+        "word": "laser",
+        "usphone": "'lezɚ",
+        "ukphone": "'leɪzə",
+        "trans": [
+            {
+                "tranCn": "激光",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a beam of light produced by a laser"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "laser surgery",
+                "sCn": "激光(外科)手术"
+            }
+        ]
+    },
+    {
+        "word": "lavatory",
+        "usphone": "'lævətɔri",
+        "ukphone": "'lævət(ə)rɪ",
+        "trans": [
+            {
+                "tranCn": "盥洗室，厕所",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a toilet or the room a toilet is in"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "the ladies' lavatory",
+                "sCn": "女厕所"
+            }
+        ]
+    },
+    {
+        "word": "lid",
+        "usphone": "lɪd",
+        "ukphone": "lɪd",
+        "trans": [
+            {
+                "tranCn": "盖子，盖，囊盖",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a cover for the open part of a pot, box, or other container"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "She lifted the lid of the box and displayed the contents.",
+                "sCn": "她把盒盖掀起，展示了里边的东西。"
+            }
+        ]
+    },
+    {
+        "word": "loaf",
+        "usphone": "lof",
+        "ukphone": "ləʊf",
+        "trans": [
+            {
+                "tranCn": "一条面包，一个面包",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "bread that is shaped and baked in one piece and can be cut into slices"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a loaf of bread",
+                "sCn": "一条面包"
+            }
+        ]
+    },
+    {
+        "word": "lorry",
+        "usphone": "'lɔri",
+        "ukphone": "'lɒrɪ",
+        "trans": [
+            {
+                "tranCn": "运货汽车，卡车",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a large vehicle for carrying heavy goods"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Now and then they heard the roar of a heavy lorry.",
+                "sCn": "他们不时听见一辆重型卡车的轰响声。"
+            }
+        ]
+    },
+    {
+        "word": "lounge",
+        "usphone": "laʊndʒ",
+        "ukphone": "laʊn(d)ʒ",
+        "trans": [
+            {
+                "tranCn": "（旅馆等的）休息室",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a public room in a hotel or other building, that is used by many people as a place to relax"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "the television lounge",
+                "sCn": "电视放映室"
+            }
+        ]
+    },
+    {
+        "word": "maple",
+        "usphone": "'mepl",
+        "ukphone": "'meɪp(ə)l",
+        "trans": [
+            {
+                "tranCn": "槭树，枫树",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a tree which grows mainly in northern countries such as Canada. Its leaves have five points and turn red or gold in autumn."
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a maple leaf",
+                "sCn": "枫叶"
+            }
+        ]
+    },
+    {
+        "word": "mend",
+        "usphone": "mɛnd",
+        "ukphone": "mend",
+        "trans": [
+            {
+                "tranCn": "修理；改正",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to repair sth that has been damaged or broken so that it can be used again"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Could you mend my bike for me?",
+                "sCn": "你能帮我修一下自行车吗？"
+            },
+            {
+                "sContent": "If he doesn’t mend his ways, he’ll be asked to leave.",
+                "sCn": "如果他不好好改改，会让他走人的。"
+            }
+        ]
+    },
+    {
+        "word": "merciful",
+        "usphone": "'mɝsɪfl",
+        "ukphone": "'mɜːsɪfʊl; -f(ə)l",
+        "trans": [
+            {
+                "tranCn": "仁慈的，宽大的",
+                "descOther": "英释",
+                "pos": "adj",
+                "descCn": "中释",
+                "tranOther": "being kind to people and forgiving them rather than punishing them or being cruel"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Merciful God, save us.",
+                "sCn": "仁慈的上帝，救救我们吧。"
+            }
+        ]
+    },
+    {
+        "word": "midday",
+        "usphone": ",mɪd'de",
+        "ukphone": "mɪd'deɪ",
+        "trans": [
+            {
+                "tranCn": "正午，中午",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the middle of the day, at or around 12 o’clock"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "We stopped off in Colchester for our midday meal.",
+                "sCn": "我们中途在科尔切斯特停留吃了午饭。"
+            },
+            {
+                "sContent": "the full heat of the midday sun",
+                "sCn": "正午烈日的酷热"
+            }
+        ]
+    },
+    {
+        "word": "mineral",
+        "usphone": "'mɪnərəl",
+        "ukphone": "'mɪn(ə)r(ə)l",
+        "trans": [
+            {
+                "tranCn": "矿物",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a substance that is formed naturally in the earth, such as coal, salt, stone, or gold. Minerals can be dug out of the ground and used"
+            },
+            {
+                "tranCn": "矿物的",
+                "descOther": "英释",
+                "pos": "adj",
+                "descCn": "中释",
+                "tranOther": "of or containing or derived from minerals"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The area is very rich in minerals .",
+                "sCn": "该地区矿产非常丰富。"
+            },
+            {
+                "sContent": "a country with few mineral resources",
+                "sCn": "矿产资源稀少的国家"
+            },
+            {
+                "sContent": "mineral water",
+                "sCn": "矿泉水"
+            }
+        ]
+    },
+    {
+        "word": "monument",
+        "usphone": "'mɑnjumənt",
+        "ukphone": "'mɒnjʊm(ə)nt",
+        "trans": [
+            {
+                "tranCn": "纪念碑；纪念馆",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a building,  statue  , or other large structure that is built to remind people of an important event or famous person"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "He erected a monument on the spot where his daughter was killed.",
+                "sCn": "他在女儿遇难的地方立了块纪念碑。"
+            }
+        ]
+    },
+    {
+        "word": "mop",
+        "usphone": "mɑp",
+        "ukphone": "mɒp",
+        "trans": [
+            {
+                "tranCn": "拖把，墩布；洗碗刷",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a thing used for washing floors, consisting of a long stick with threads of thick string or a piece of sponge fastened to one end"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a mop and bucket",
+                "sCn": "拖把和水桶"
+            }
+        ]
+    },
+    {
+        "word": "mountainous",
+        "usphone": "'maʊntənəs",
+        "ukphone": "'maʊntɪnəs",
+        "trans": [
+            {
+                "tranCn": "多山的；山一般的",
+                "descOther": "英释",
+                "pos": "adj",
+                "descCn": "中释",
+                "tranOther": "having many mountains"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "the mountainous coast of Wales",
+                "sCn": "威尔士多山的海岸"
+            },
+            {
+                "sContent": "mountainous waves",
+                "sCn": "如山的巨浪"
+            }
+        ]
+    },
+    {
+        "word": "mustard",
+        "usphone": "'mʌstɚd",
+        "ukphone": "'mʌstəd",
+        "trans": [
+            {
+                "tranCn": "芥子，芥末",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a yellow sauce with a strong taste, eaten especially with meat"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a jar of mustard",
+                "sCn": "一罐芥末酱"
+            }
+        ]
+    },
+    {
+        "word": "mutton",
+        "usphone": "'mʌtn",
+        "ukphone": "'mʌt(ə)n",
+        "trans": [
+            {
+                "tranCn": "羊肉",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the meat from a sheep"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a leg of mutton",
+                "sCn": "一条羊腿"
+            }
+        ]
+    },
+    {
+        "word": "navy",
+        "usphone": "'nevi",
+        "ukphone": "'neɪvɪ",
+        "trans": [
+            {
+                "tranCn": "海军",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the part of a country’s military forces that fights at sea"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "the British Navy",
+                "sCn": "英国海军"
+            },
+            {
+                "sContent": "He joined the navy during the war.",
+                "sCn": "他在战争期间参加了海军。"
+            }
+        ]
+    },
+    {
+        "word": "nursery",
+        "usphone": "'nɝsəri",
+        "ukphone": "'nɜːs(ə)rɪ",
+        "trans": [
+            {
+                "tranCn": "苗圃",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a place where plants and trees are grown and sold"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The garden, developed over the past 35 years, includes a nursery.",
+                "sCn": "这个有35年历史的园子里有一个苗圃。"
+            }
+        ]
+    },
+    {
+        "word": "occupation",
+        "usphone": ",ɑkju'peʃən",
+        "ukphone": "ɒkjʊ'peɪʃ(ə)n",
+        "trans": [
+            {
+                "tranCn": "职业；占领，占据",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a job or profession"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Please state your name, address and occupation.",
+                "sCn": "请写明你的姓名、地址和职业。"
+            },
+            {
+                "sContent": "professional and managerial occupations",
+                "sCn": "专业及管理工作"
+            },
+            {
+                "sContent": "manual occupations",
+                "sCn": "体力工作"
+            },
+            {
+                "sContent": "the German occupation of France",
+                "sCn": "德军对法国的占领"
+            }
+        ]
+    },
+    {
+        "word": "parcel",
+        "usphone": "'pɑrsl",
+        "ukphone": "'pɑːs(ə)l",
+        "trans": [
+            {
+                "tranCn": "包裹，小包，邮包",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "an object that has been wrapped in paper or put in a special envelope, especially so that it can be sent by post"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The parcel was delivered last week.",
+                "sCn": "那个邮包上周送到了。"
+            },
+            {
+                "sContent": "He sends regular food parcels to his family in Libya.",
+                "sCn": "他定期给在利比亚的家人邮寄食品包裹。"
+            }
+        ]
+    },
+    {
+        "word": "peasant",
+        "usphone": "'pɛznt",
+        "ukphone": "'pez(ə)nt",
+        "trans": [
+            {
+                "tranCn": "农民",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a poor farmer who owns or rents a small amount of land, either in past times or in poor countries"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Most villagers are peasant farmers.",
+                "sCn": "大多数村民是农民。"
+            }
+        ]
+    },
+    {
+        "word": "pine",
+        "usphone": "paɪn",
+        "ukphone": "paɪn",
+        "trans": [
+            {
+                "tranCn": "松树；松木",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a tall tree with long hard sharp leaves that do not fall off in winter"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "an ancient pine forest",
+                "sCn": "一片古老的松树林"
+            },
+            {
+                "sContent": "a pine table",
+                "sCn": "松木桌子"
+            }
+        ]
+    },
+    {
+        "word": "pineapple",
+        "usphone": "'paɪn'æpl",
+        "ukphone": "'paɪnæp(ə)l",
+        "trans": [
+            {
+                "tranCn": "凤梨，波萝",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a large yellow-brown tropical fruit or its sweet juicy yellow flesh"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "pineapple chunks",
+                "sCn": "菠萝块"
+            },
+            {
+                "sContent": "pineapple juice",
+                "sCn": "菠萝汁"
+            }
+        ]
+    },
+    {
+        "word": "postage",
+        "usphone": "'postɪdʒ",
+        "ukphone": "'pəʊstɪdʒ",
+        "trans": [
+            {
+                "tranCn": "邮费，邮资",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the money charged for sending a letter, package etc by post"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "How much is the postage for a postcard?",
+                "sCn": "寄一张明信片的邮资是多少？"
+            }
+        ]
+    },
+    {
+        "word": "postpone",
+        "usphone": "po'spon",
+        "ukphone": "pəʊs(t)'pəʊn; pə'spəʊn",
+        "trans": [
+            {
+                "tranCn": "延迟，推迟，延缓",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to change the date or time of a planned event or action to a later one"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The match had to be postponed until next week.",
+                "sCn": "比赛不得不推迟到下周举行。"
+            },
+            {
+                "sContent": "His trial has been postponed indefinitely (= no one knows when it will happen ) .",
+                "sCn": "对他的审判被无限期推迟了。"
+            }
+        ]
+    },
+    {
+        "word": "powder",
+        "usphone": "'paʊdɚ",
+        "ukphone": "'paʊdə",
+        "trans": [
+            {
+                "tranCn": "粉末；药粉；火药",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "Powder consists of many tiny particles of a solid substance."
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "curry powder",
+                "sCn": "咖喱粉"
+            },
+            {
+                "sContent": "talcum powder",
+                "sCn": "滑石[爽身]粉"
+            },
+            {
+                "sContent": "Grind the sugar into a powder .",
+                "sCn": "把糖碾成粉末。"
+            },
+            {
+                "sContent": "The paint is supplied in powder form.",
+                "sCn": "这种涂料以粉末状供应。"
+            }
+        ]
+    },
+    {
+        "word": "preferable",
+        "usphone": "'prɛfrəbl",
+        "ukphone": "'pref(ə)rəb(ə)l",
+        "trans": [
+            {
+                "tranCn": "更可取的，更好的",
+                "descOther": "英释",
+                "pos": "adj",
+                "descCn": "中释",
+                "tranOther": "better or more suitable"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Anything was preferable to the tense atmosphere at home.",
+                "sCn": "什么都比家里的紧张气氛好。"
+            },
+            {
+                "sContent": "In warm weather, clothes made of natural fabrics are infinitely preferable (= much better ) .",
+                "sCn": "天气暖和的时候，穿天然织物的衣服要舒适得多。"
+            }
+        ]
+    },
+    {
+        "word": "prescription",
+        "usphone": "prɪ'skrɪpʃən",
+        "ukphone": "prɪ'skrɪpʃ(ə)n",
+        "trans": [
+            {
+                "tranCn": "药方，处方；处方药",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a piece of paper on which a doctor writes what medicine a sick person should have, so that they can get it from a pharmacist"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The new drug will not require a physician's prescription.",
+                "sCn": "这种新药不需要医生的处方。"
+            },
+            {
+                "sContent": "If you’re pregnant, you can get free prescriptions.",
+                "sCn": "要是怀孕的话可以获得免费的处方药。"
+            }
+        ]
+    },
+    {
+        "word": "rag",
+        "usphone": "ræɡ",
+        "ukphone": "ræg",
+        "trans": [
+            {
+                "tranCn": "破布，碎布，抹布",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a small piece of old cloth, for example one used for cleaning things"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "He wiped his boots dry with an old rag.",
+                "sCn": "他用一块旧布把他的靴子擦干。"
+            },
+            {
+                "sContent": "an oily rag",
+                "sCn": "沾满油污的抹布"
+            }
+        ]
+    },
+    {
+        "word": "receipt",
+        "usphone": "rɪ'sit",
+        "ukphone": "rɪ'siːt",
+        "trans": [
+            {
+                "tranCn": "收条，收据；收到",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a piece of paper that you are given which shows that you have paid for something"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Keep your receipt in case you want to bring it back.",
+                "sCn": "保留收据以备退货之需。"
+            },
+            {
+                "sContent": "Can you give me a receipt?",
+                "sCn": "你能给我一个收条吗？"
+            },
+            {
+                "sContent": "The booking will be made on receipt of a deposit.",
+                "sCn": "一收到订金就进行预订。"
+            }
+        ]
+    },
+    {
+        "word": "resist",
+        "usphone": "rɪ'zɪst",
+        "ukphone": "rɪ'zɪst",
+        "trans": [
+            {
+                "tranCn": "抵制；抵抗",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to refuse to accept sth and try to stop it from happening"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "to resist change",
+                "sCn": "抵制变革"
+            },
+            {
+                "sContent": "He tried to pin me down, but I resisted.",
+                "sCn": "他试图制伏我，但我奋力反抗。"
+            }
+        ]
+    },
+    {
+        "word": "sacrifice",
+        "usphone": "'sækrɪfaɪs",
+        "ukphone": "'sækrɪfaɪs",
+        "trans": [
+            {
+                "tranCn": "牺牲；献祭",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "when you decide not to have something valuable, in order to get something that is more important"
+            },
+            {
+                "tranCn": "牺牲；献祭",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to willingly stop having something you want or doing something you like in order to get something more important"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The minister stressed the need for economic sacrifice.",
+                "sCn": "部长强调了在经济上作出牺牲的必要性。"
+            },
+            {
+                "sContent": "The workforce were willing to make sacrifices in order to preserve jobs.",
+                "sCn": "雇员为了保住饭碗情愿作出牺牲。"
+            },
+            {
+                "sContent": "She brought three children up single-handedly, often at great personal sacrifice.",
+                "sCn": "她独自一人把三个孩子带大，常常需要作出巨大的个人牺牲。"
+            },
+            {
+                "sContent": "They made sacrifices to ensure a good harvest.",
+                "sCn": "他们举行献祭以保丰收。"
+            },
+            {
+                "sContent": "He sacrificed a promising career to look after his kids.",
+                "sCn": "他为了照看孩子牺牲了很有前途的事业。"
+            }
+        ]
+    },
+    {
+        "word": "salute",
+        "usphone": "sə'lut",
+        "ukphone": "sə'l(j)uːt",
+        "trans": [
+            {
+                "tranCn": "（向…）行军礼，（向…）致敬",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to move your right hand to your head, especially in order to show respect to an officer in the army, navy etc"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The two soldiers saluted Lieutenant Cecil.",
+                "sCn": "那两名士兵向塞西尔中尉行了礼。"
+            },
+            {
+                "sContent": "The men jumped to their feet and saluted.",
+                "sCn": "这些人赶紧起立敬礼。"
+            }
+        ]
+    },
+    {
+        "word": "saucer",
+        "usphone": "'sɔsɚ",
+        "ukphone": "'sɔːsə",
+        "trans": [
+            {
+                "tranCn": "茶托，浅碟",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a small round plate that curves up at the edges, that you put a cup on"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a china cup and saucer",
+                "sCn": "一套瓷茶杯和杯托"
+            }
+        ]
+    },
+    {
+        "word": "scholar",
+        "usphone": "'skɑlɚ",
+        "ukphone": "'skɒlə",
+        "trans": [
+            {
+                "tranCn": "学者（尤指文学方面）",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "someone who knows a lot about a particular subject, especially one that is not a science subject"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a Shakespearean scholar",
+                "sCn": "研究莎士比亚的学者"
+            }
+        ]
+    },
+    {
+        "word": "scholarship",
+        "usphone": "'skɑlɚʃɪp",
+        "ukphone": "'skɒləʃɪp",
+        "trans": [
+            {
+                "tranCn": "奖学金；学问，学识",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "an amount of money that is given to someone by an educational organization to help pay for their education"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "She won a scholarship to Iowa State University.",
+                "sCn": "她获得了艾奥瓦州立大学的奖学金。"
+            },
+            {
+                "sContent": "Her latest publication is a fine piece of scholarship.",
+                "sCn": "她最新出版的作品是一部优秀的学术著作。"
+            }
+        ]
+    },
+    {
+        "word": "settlement",
+        "usphone": "'sɛtlmənt",
+        "ukphone": "'set(ə)lm(ə)nt",
+        "trans": [
+            {
+                "tranCn": "调停；（尤指拓荒者居住的）定居点，村落",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "an official agreement or decision that ends an argument, a court case, or a fight, or the action of making an agreement"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "the search for a peaceful settlement of the Northern Ireland conflict",
+                "sCn": "寻找和平解决北爱尔兰冲突的办法"
+            },
+            {
+                "sContent": "The railway stations created new settlements.",
+                "sCn": "这些火车站催生了新的定居点。"
+            }
+        ]
+    },
+    {
+        "word": "shabby",
+        "usphone": "ˈʃæbi",
+        "ukphone": "'ʃæbɪ",
+        "trans": [
+            {
+                "tranCn": "破旧的；褴褛的",
+                "descOther": "英释",
+                "pos": "adj",
+                "descCn": "中释",
+                "tranOther": "shabby clothes, places, or objects are untidy and in bad condition because they have been used for a long time"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Hugh’s jacket was old and shabby.",
+                "sCn": "休的夹克衫又旧又破。"
+            },
+            {
+                "sContent": "a shabby tramp",
+                "sCn": "一个衣衫褴褛的流浪汉"
+            }
+        ]
+    },
+    {
+        "word": "shave",
+        "usphone": "ʃev",
+        "ukphone": "ʃeɪv",
+        "trans": [
+            {
+                "tranCn": "剃，刮",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to cut off hair very close to the skin, especially from the face, using a  razor"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "He hadn’t shaved for days.",
+                "sCn": "他已经好几天没刮脸了。"
+            },
+            {
+                "sContent": "Brian had cut himself shaving .",
+                "sCn": "布赖恩刮胡子时割破了脸。"
+            }
+        ]
+    },
+    {
+        "word": "spade",
+        "usphone": "sped",
+        "ukphone": "speɪd",
+        "trans": [
+            {
+                "tranCn": "铲，铁锹",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a tool for digging that has a long handle and a broad metal blade that you push into the ground"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a garden spade",
+                "sCn": "一把花园里使用的锹"
+            }
+        ]
+    },
+    {
+        "word": "spray",
+        "usphone": "spreɪ",
+        "ukphone": "spreɪ",
+        "trans": [
+            {
+                "tranCn": "浪花；喷雾",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "water in very small drops that is blown from the sea etc or sent up by vehicles on a wet road"
+            },
+            {
+                "tranCn": "喷",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to force liquid out of a container so that it comes out in a stream of very small drops and covers an area"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "spray from the waves",
+                "sCn": "海浪溅起的水雾"
+            },
+            {
+                "sContent": "a new hair styling spray",
+                "sCn": "一种新的定型喷发剂"
+            },
+            {
+                "sContent": "Most farmers use pesticide sprays.",
+                "sCn": "大多数农民都使用喷雾杀虫剂。"
+            },
+            {
+                "sContent": "She sprayed herself with perfume.",
+                "sCn": "她往身上喷了香水。"
+            }
+        ]
+    },
+    {
+        "word": "thorough",
+        "usphone": "ˈθʌrəʊ; θʌro",
+        "ukphone": "'θʌrə",
+        "trans": [
+            {
+                "tranCn": "精心的；详尽的",
+                "descOther": "英释",
+                "pos": "adj",
+                "descCn": "中释",
+                "tranOther": "including every possible detail"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The doctor gave him a thorough check-up.",
+                "sCn": "医生给他做了一次全面的体检。"
+            },
+            {
+                "sContent": "a thorough and detailed biography",
+                "sCn": "详尽的传记"
+            },
+            {
+                "sContent": "The police investigation was very thorough.",
+                "sCn": "警方的调查十分彻底。"
+            },
+            {
+                "sContent": "thorough notes of the meeting",
+                "sCn": "详尽的会议记录"
+            }
+        ]
+    },
+    {
+        "word": "throughout",
+        "usphone": "θrʊ'aʊt",
+        "ukphone": "θruː'aʊt",
+        "trans": [
+            {
+                "tranCn": "遍及",
+                "descOther": "英释",
+                "pos": "prep",
+                "descCn": "中释",
+                "tranOther": "in every part of a particular area, place etc"
+            },
+            {
+                "tranCn": "到处",
+                "descOther": "英释",
+                "pos": "adv",
+                "descCn": "中释",
+                "tranOther": "during all of a particular period, from the beginning to the end"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a large organization with offices throughout the world",
+                "sCn": "在世界各地都设有办事处的一家大型机构"
+            },
+            {
+                "sContent": "The disease spread rapidly throughout Europe.",
+                "sCn": "疾病迅速在整个欧洲蔓延开来。"
+            },
+            {
+                "sContent": "The house is in excellent condition, with fitted carpets throughout.",
+                "sCn": "这幢房子状况极好，全部铺着地毯。"
+            },
+            {
+                "sContent": "We are open every weekend throughout the year.",
+                "sCn": "我们全年每个周末都对外开放。"
+            }
+        ]
+    },
+    {
+        "word": "tremble",
+        "usphone": "'trɛmbl",
+        "ukphone": "'tremb(ə)l",
+        "trans": [
+            {
+                "tranCn": "发抖，哆嗦；摇动",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to shake slightly in a way that you cannot control, especially because you are upset or frightened"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "His lip started to tremble and then he started to cry.",
+                "sCn": "他的嘴唇开始颤抖，接着就哭了起来。"
+            }
+        ]
+    },
+    {
+        "word": "trial",
+        "usphone": "'traɪəl",
+        "ukphone": "'traɪəl",
+        "trans": [
+            {
+                "tranCn": "审判；试，试验",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a legal process in which a judge and often a  jury  in a court of law examine information to decide whether someone is guilty of a crime"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The trial is due to start next week.",
+                "sCn": "审理定于下周开始。"
+            },
+            {
+                "sContent": "a new drug that is undergoing clinical trials",
+                "sCn": "正在接受临床试验的一种新药"
+            }
+        ]
+    },
+    {
+        "word": "trolley",
+        "usphone": "'trɑli",
+        "ukphone": "'trɒlɪ",
+        "trans": [
+            {
+                "tranCn": "手推车；有轨电车",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a large basket on wheels that you use for carrying bags, shopping etc"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a supermarket trolley",
+                "sCn": "超市购物手推车"
+            },
+            {
+                "sContent": "He took a northbound trolley on State Street.",
+                "sCn": "他在州大街坐上了一辆北行的有轨电车。"
+            }
+        ]
+    },
+    {
+        "word": "bus",
+        "usphone": "bʌs",
+        "ukphone": "bʌs",
+        "trans": [
+            {
+                "tranCn": "公共汽车",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a large vehicle that people pay to travel on"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "I took a bus to San Francisco.",
+                "sCn": "我乘公共汽车去旧金山。"
+            },
+            {
+                "sContent": "Buses run at 15 and 30 minutes past the hour.",
+                "sCn": "公共汽车在每小时的15分和30分时发车。"
+            }
+        ]
+    },
+    {
+        "word": "troop",
+        "usphone": "trʊp",
+        "ukphone": "truːp",
+        "trans": [
+            {
+                "tranCn": "一群，一队，大量",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a group of people or animals that do something together"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a troop of monkeys",
+                "sCn": "一群猴子"
+            },
+            {
+                "sContent": "a Scout troop",
+                "sCn": "一队童子军"
+            }
+        ]
+    },
+    {
+        "word": "upset",
+        "usphone": "ʌp'sɛt",
+        "ukphone": "ʌp'set",
+        "trans": [
+            {
+                "tranCn": "弄翻，打翻，倾覆",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to push something over without intending to"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "He upset a bowl of soup.",
+                "sCn": "他打翻了一碗汤。"
+            }
+        ]
+    },
+    {
+        "word": "virtue",
+        "usphone": "'vɝtʃʊ",
+        "ukphone": "'vɜːtjuː; -tʃuː",
+        "trans": [
+            {
+                "tranCn": "善；美德；优点",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "moral goodness of character and behaviour"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "Women have often been used as symbols of virtue.",
+                "sCn": "女性常被用作美德的象征。"
+            },
+            {
+                "sContent": "Wilkins is now extolling the virtues of organic farming.",
+                "sCn": "威尔金斯现在盛赞有机耕作的好处。"
+            }
+        ]
+    },
+    {
+        "word": "visa",
+        "usphone": "'vizə",
+        "ukphone": "'viːzə",
+        "trans": [
+            {
+                "tranCn": "签证",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "an official mark put on your passport that gives you permission to temporarily enter or leave a foreign country"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "I was still in New York, trying to get a visa to visit Russia.",
+                "sCn": "我仍在纽约，正在办理去俄罗斯的签证。"
+            }
+        ]
+    },
+    {
+        "word": "voyage",
+        "usphone": "'vɔɪɪdʒ",
+        "ukphone": "'vɒɪɪdʒ",
+        "trans": [
+            {
+                "tranCn": "航海，航空",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a long journey in a ship or spacecraft"
+            },
+            {
+                "tranCn": "航海，航行",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to travel to a place, especially by ship"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The voyage from England to India used to take six months.",
+                "sCn": "过去从英格兰到印度要航行六个月。"
+            },
+            {
+                "sContent": "the Titanic’s maiden voyage",
+                "sCn": "“泰坦尼克”号的首航"
+            },
+            {
+                "sContent": "I don’t want to make the voyage single-handed.",
+                "sCn": "我不想独自航行。"
+            },
+            {
+                "sContent": "These are the voyages of the starship Enterprise.",
+                "sCn": "这些就是“企业”号星舰几次航行的经历。"
+            }
+        ]
+    },
+    {
+        "word": "wag",
+        "usphone": "wæɡ",
+        "ukphone": "wæg",
+        "trans": [
+            {
+                "tranCn": "（狗） 摇摆 （尾巴）；摇晃 （手指）",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "if a dog wags its tail, or if its tail wags, the dog moves its tail many times from one side to the other"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The dog was biting, growling and wagging its tail.",
+                "sCn": "那条狗咬着叫着，还摇着尾巴。"
+            },
+            {
+                "sContent": "‘You naughty girl!’ Mom said, wagging her finger at me.",
+                "sCn": "“你这个调皮的丫头！”妈妈对我摇了摇手指说道。"
+            }
+        ]
+    },
+    {
+        "word": "wage",
+        "usphone": "wedʒ",
+        "ukphone": "weɪdʒ",
+        "trans": [
+            {
+                "tranCn": "开展（运动）",
+                "descOther": "英释",
+                "pos": "v",
+                "descCn": "中释",
+                "tranOther": "to be involved in a war against someone, or a fight against something"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "The police are waging war on drug pushers in the city.",
+                "sCn": "警方正在市内开展一场打击毒贩的斗争。"
+            }
+        ]
+    },
+    {
+        "word": "walnut",
+        "usphone": "'wɔlnət",
+        "ukphone": "'wɔːlnʌt",
+        "trans": [
+            {
+                "tranCn": "核桃；胡桃树",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "a nut that you can eat, shaped like a human brain"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "coffee and walnut cake",
+                "sCn": "咖啡核桃蛋糕"
+            },
+            {
+                "sContent": "Below in the valley lie miles of walnut trees.",
+                "sCn": "在下面的山谷里绵延着几英里的核桃树。"
+            }
+        ]
+    },
+    {
+        "word": "wool",
+        "usphone": "wʊl",
+        "ukphone": "wʊl",
+        "trans": [
+            {
+                "tranCn": "羊毛；毛线，绒线",
+                "descOther": "英释",
+                "pos": "n",
+                "descCn": "中释",
+                "tranOther": "the soft thick hair that sheep and some goats have on their body"
+            }
+        ],
+        "sentences": [
+            {
+                "sContent": "a wool overcoat",
+                "sCn": "羊毛大衣"
+            },
+            {
+                "sContent": "a ball of wool",
+                "sCn": "一团毛线"
+            }
+        ]
+    }
+]
