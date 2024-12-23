@@ -21,10 +21,10 @@ def tchandler(fun, args):
     except:
         pass
 
-def speak(text: str, type: SpeakType):
-    if type == SpeakType.ENGLISH_WORD:
+def speak(text: str, t: SpeakType):
+    if t == SpeakType.ENGLISH_WORD:
         url = f'https://dict.youdao.com/dictvoice?audio={text}&type=2'
-    elif type == SpeakType.CHINESE:
+    elif t == SpeakType.CHINESE:
         url = f'https://fanyi.baidu.com/gettts?lan=zh&text={urllib.parse.quote(text)}&spd=5'
     else:
         raise Exception
