@@ -40,22 +40,31 @@ def speak_word(text):
 def speak_zh(text):
     tchandler(speak, (text, SpeakType.CHINESE))
 
-while True:
-    print('\n----------------------------------------------------------------------\n')
+def translation(silent_mode=False, multithreaded=True):
+    global SILENT_MODE
+    SILENT_MODE = silent_mode
+    global MULTITHREADED
+    MULTITHREADED = multithreaded
 
-    word = random.choice(data)
-    print(word['word'], end='\t\t\t')
-    if not SILENT_MODE: speak_word(word['word'])
-    else: print('\n'+word['usphone'], end='')
+    while True:
+        print('\n----------------------------------------------------------------------\n')
 
-    ins = input()
-    if ins in ['q', 'quit']:
-        break
-    if not ins:
-        print(word['trans'][0]['tranCn'])
-        continue
+        word = random.choice(data)
+        print(word['word'], end='\t\t\t')
+        if not SILENT_MODE: speak_word(word['word'])
+        else: print('\n'+word['usphone'], end='')
 
-    print(json.dumps(word['trans'], indent=4, ensure_ascii=False))
-    print(word['sentences'][0]['sContent'], end='')
-    if not SILENT_MODE: speak_zh(word['trans'][0]['tranCn'])
-    input()
+        ins = input()
+        if ins in ['q', 'quit']:
+            break
+        if not ins:
+            print(word['trans'][0]['tranCn'])
+            continue
+
+        print(json.dumps(word['trans'], indent=4, ensure_ascii=False))
+        print(word['sentences'][0]['sContent'], end='')
+        if not SILENT_MODE: speak_zh(word['trans'][0]['tranCn'])
+        input()
+
+if __name__ == '__main__':
+    translation()
