@@ -11,6 +11,9 @@ MULTITHREADED = True
 with open('output.json', encoding='utf-8') as f:
     data = json.load(f)
 
+for item in data:
+    item['deleted'] = False
+
 class SpeakType(Enum):
     ENGLISH_WORD = 0
     CHINESE = 1
@@ -57,6 +60,7 @@ def translation(silent_mode=False, multithreaded=True):
         NEXT = 2
         READ = 3
         READED = 4
+        PAUSE = 5
 
     rollback_words = []
     last_word = None
@@ -65,6 +69,7 @@ def translation(silent_mode=False, multithreaded=True):
 
 
         word = random.choice(data)
+        while word['deleted']: word = random.choice(data)
         for i, v in enumerate(rollback_words):
             if v[0] <= 0:
                 word = v[1]
@@ -102,14 +107,25 @@ def translation(silent_mode=False, multithreaded=True):
                         sprint(word['trans'][0]['tranCn'])
                         last_word = word
                         flag = Flag.NEXT
+                    elif ins in ['r', 'rm']:
+                        ins = input(f'确定删除{word['word']}吗？')
+                        if ins in ['y', 'Y', 'yes', 'YES', 'Yes']:
+                            word['deleted'] = True
+                            sprint('删除了')
+                        else:
+                            sprint('好')
+                        flag = Flag.NEXT
                     elif ins in ['\'', '\\', ']', '/']:
                         # 输出单词详情，朗读中文翻译
                         sprint(json.dumps(word['trans'], indent=4, ensure_ascii=False))
                         sprint(word['sentences'][0]['sContent'])
                         if not SILENT_MODE: speak_zh(word['trans'][0]['tranCn'])
-                        flag = Flag.NEXT
+                        flag = Flag.PAUSE
                     else:
                         flag = Flag.READ
+                case Flag.PAUSE:
+                    input()
+                    flag = Flag.NEXT
 
 
 if __name__ == '__main__':
